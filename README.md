@@ -1,1 +1,1 @@
-# qtm250hw
+# This repository holds all of our assignments from QTM 250. Our most recent assignment, HW4, used Facial Recognition in ML to test the accuracy of emotions. We used the Cloud Vision API to detect facial recognition, landmark detection, and image processing. 
